@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="update-version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="USV_01_Assets" transform="translate(-216.000000, -113.000000)" stroke="#B5C4CF" stroke-width="1.44">
+            <g id="update_01_close-copy-3" transform="translate(200.000000, 90.000000)">
+                <path d="M14.5,32.5 L19.286683,26.8241904 C19.6189235,26.4302363 20.2076204,26.3802075 20.6015745,26.7124479 C20.6419146,26.7464687 20.6792962,26.7838502 20.713317,26.8241904 L25.5,32.5" id="arrow" transform="translate(20.000000, 29.500000) rotate(-90.000000) translate(-20.000000, -29.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
